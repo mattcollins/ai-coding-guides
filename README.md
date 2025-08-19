@@ -1,4 +1,4 @@
-# Best Practices for Developing Software With AI Assistants
+# Best Practices for Developing Software With AI Coding Assistants
 
 ## Maintain Good Assistant Configuration Files
 AI coding assistants allow you to set up configuration files (such as CLAUDE.md
